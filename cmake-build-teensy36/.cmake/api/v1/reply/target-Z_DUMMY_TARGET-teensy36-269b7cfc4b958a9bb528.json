@@ -1,0 +1,1592 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 73,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 74,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 79,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 83,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 89,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 90,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 93,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 94,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 95,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 96,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 98,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 103,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 105,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 106,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 107,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 108,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 109,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 110,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 111,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 112,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 113,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 114,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 115,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 116,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 117,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 118,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 119,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 120,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 121,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 122,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 123,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 124,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 125,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 126,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 128,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 129,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 130,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 131,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 133,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 134,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 135,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 136,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 137,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 138,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 139,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 140,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 141,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 142,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 143,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fno-exceptions -felide-constructors -fno-rtti -std=gnu++14 -Wno-error=narrowing -fpermissive -Wall -ffunction-sections -fdata-sections -mthumb -mcpu=cortex-m4 -nostdlib -fsingle-precision-constant -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O2 -mno-unaligned-access -fsingle-precision-constant"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10805"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_TEENSY36"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "CORE_TEENSY"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "F_CPU=180000000L"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "LAYOUT_US_ENGLISH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PLATFORMIO=50205"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "TEENSYDUINO=156"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "USB_SERIAL"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "__MK66FX1M0__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/src"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/.pio/libdeps/teensy36/Adafruit LIS3MDL"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/.pio/libdeps/teensy36/Adafruit Unified Sensor"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/.pio/libdeps/teensy36/Adafruit BusIO"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SPI"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Wire"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Wire/utility"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/cores/teensy3"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ADC"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Adafruit_NeoPixel"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Adafruit_STMPE610"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Adafruit_VS1053"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Adafruit_nRF8001"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Adafruit_nRF8001/utility"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/AltSoftSerial"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Artnet"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Audio"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Audio/utility"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Bounce"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Bounce2/src"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/CapacitiveSensor"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/CryptoAccel/src"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/DS1307RTC"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/DmxSimple"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/DogLcd"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/EEPROM"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/EasyTransfer"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/EasyTransferI2C"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Encoder"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Encoder/utility"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Entropy"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Ethernet/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FNET/src"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FastCRC"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FastLED/src"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FlexCAN"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FlexCAN_T4"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FlexIO_t4/src"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FlexiTimer2"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FreqCount"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FreqMeasure"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FreqMeasureMulti"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/FrequencyTimer2"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ILI9341_t3"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ILI9488_t3/src"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/IRremote/src"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Keypad/src"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/LedControl/src"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/LedDisplay"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/LiquidCrystal/src"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/LiquidCrystalFast"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/LittleFS/src"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/LowPower"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/MFRC522/src"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/MIDI/src"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Metro"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/MsTimer2"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/NXPMotionSense"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/NXPMotionSense/utility"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/NativeEthernet/src"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/OSC"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/OctoWS2811"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/OneWire"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/PS2Keyboard"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/PS2Keyboard/utility"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/PWMServo"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Ping"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/PulsePosition"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/QuadEncoder"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/RA8875"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/RadioHead"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ResponsiveAnalogRead/src"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SD/src"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SPIFlash"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ST7735_t3"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SdFat/src"
+				},
+				{
+					"backtrace" : 91,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SerialFlash"
+				},
+				{
+					"backtrace" : 92,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Servo"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ShiftPWM"
+				},
+				{
+					"backtrace" : 94,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Snooze/src"
+				},
+				{
+					"backtrace" : 95,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SoftPWM"
+				},
+				{
+					"backtrace" : 96,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/SoftwareSerial"
+				},
+				{
+					"backtrace" : 97,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TFT_ILI9163C"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Talkie"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TeensyThreads"
+				},
+				{
+					"backtrace" : 100,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Time"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TimeAlarms"
+				},
+				{
+					"backtrace" : 102,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TimerOne"
+				},
+				{
+					"backtrace" : 103,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TimerThree"
+				},
+				{
+					"backtrace" : 104,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TinyGPS"
+				},
+				{
+					"backtrace" : 105,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/Tlc5940"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/TouchScreen"
+				},
+				{
+					"backtrace" : 107,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/USBHost_t36"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/USBHost_t36/utility"
+				},
+				{
+					"backtrace" : 109,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/UTFT"
+				},
+				{
+					"backtrace" : 110,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/VirtualWire"
+				},
+				{
+					"backtrace" : 111,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/WS2812Serial"
+				},
+				{
+					"backtrace" : 112,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/XBee"
+				},
+				{
+					"backtrace" : 113,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/XPT2046_Touchscreen"
+				},
+				{
+					"backtrace" : 114,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/i2c_t3"
+				},
+				{
+					"backtrace" : 115,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ks0108"
+				},
+				{
+					"backtrace" : 116,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/ssd1351"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "/Users/shawn/.platformio/packages/framework-arduinoteensy/libraries/x10"
+				},
+				{
+					"backtrace" : 118,
+					"path" : "/Users/shawn/.platformio/packages/toolchain-gccarmnoneeabi@1.50401.190816/arm-none-eabi/include/c++/5.4.1"
+				},
+				{
+					"backtrace" : 119,
+					"path" : "/Users/shawn/.platformio/packages/toolchain-gccarmnoneeabi@1.50401.190816/arm-none-eabi/include/c++/5.4.1/arm-none-eabi"
+				},
+				{
+					"backtrace" : 120,
+					"path" : "/Users/shawn/.platformio/packages/toolchain-gccarmnoneeabi@1.50401.190816/lib/gcc/arm-none-eabi/5.4.1/include"
+				},
+				{
+					"backtrace" : 121,
+					"path" : "/Users/shawn/.platformio/packages/toolchain-gccarmnoneeabi@1.50401.190816/lib/gcc/arm-none-eabi/5.4.1/include-fixed"
+				},
+				{
+					"backtrace" : 122,
+					"path" : "/Users/shawn/.platformio/packages/toolchain-gccarmnoneeabi@1.50401.190816/arm-none-eabi/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				7,
+				10,
+				28,
+				38
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fno-exceptions -felide-constructors -fno-rtti -std=gnu++14 -Wno-error=narrowing -fpermissive -Wall -ffunction-sections -fdata-sections -mthumb -mcpu=cortex-m4 -nostdlib -fsingle-precision-constant -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O2 -mno-unaligned-access -fsingle-precision-constant",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-L/usr/local/opt/zlib/lib",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				7,
+				10,
+				28,
+				38
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				40,
+				41,
+				42,
+				43
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				8,
+				9,
+				11,
+				29,
+				39
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/.github/ISSUE_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/.github/PULL_REQUEST_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/.github/workflows/githubci.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_BusIO_Register.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_BusIO_Register.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_I2CDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_I2CDevice.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_I2CRegister.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_SPIDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/Adafruit_SPIDevice.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/CMakeLists.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/component.mk",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/i2c_address_detect/i2c_address_detect.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/i2c_readwrite/i2c_readwrite.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/i2c_registers/i2c_registers.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/i2corspi_register/i2corspi_register.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/spi_modetest/spi_modetest.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/spi_readwrite/spi_readwrite.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/spi_register_bits/spi_register_bits.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/examples/spi_registers/spi_registers.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit BusIO/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/.github/ISSUE_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/.github/PULL_REQUEST_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/.github/workflows/githubci.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/Adafruit_LIS3MDL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/Adafruit_LIS3MDL.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/code-of-conduct.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/examples/lis3mdl_demo/lis3mdl_demo.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit LIS3MDL/license.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/.github/workflows/githubci.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/.gitignore",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/Adafruit_Sensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/Adafruit_Sensor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/LICENSE.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/examples/sensortest/sensortest.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/teensy36/Adafruit Unified Sensor/library.properties",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

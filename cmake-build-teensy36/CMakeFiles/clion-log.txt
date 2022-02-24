@@ -1,0 +1,4 @@
+/Applications/CMake.app/Contents/bin/cmake -DCMAKE_BUILD_TYPE=teensy36 "-DCMAKE_MAKE_PROGRAM=/Users/shawn/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja /Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/cmake-build-teensy36

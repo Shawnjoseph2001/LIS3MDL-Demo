@@ -1,0 +1,5 @@
+/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/cmake-build-debug/CMakeFiles/Production.dir
+/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/cmake-build-debug/CMakeFiles/Debug.dir
+/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shawn/Documents/Inflight-Dev/LIS3MDL-Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
